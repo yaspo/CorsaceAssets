@@ -7,7 +7,7 @@
             "nav": {
                 "standard": "standard",
                 "taiko": "taiko",
-                "fruits": "catch the beat",
+                "fruits": "<div>catch</div> <div>the beat</div>",
                 "mania": "mania",
                 "storyboard": "storyboard"
             }
