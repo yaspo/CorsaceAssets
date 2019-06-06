@@ -1,0 +1,21 @@
+{
+    "flag": "https://osu.ppy.sh/images/flags/KR.png",
+    "ayim": {
+        "layout": {
+            "mca2018": "2018 MAPPER'S CHOICE AWARDS",
+            "days": "",
+            "nav": {
+                "standard": "standard",
+                "taiko": "taiko",
+                "fruits": "<div>catch</div> <div>the beat</div>",
+                "mania": "mania",
+                "storyboard": "storyboard"
+            }
+        },
+        "index": {
+            "homeTitle": "Введение",
+            "home": "Рады снова представить вам AYIM, в котором мы поделимся с вами достижениями сообщества мапперов за прошедший 2018 год. <br> <br>Так же как и с MCA, в этом году мы затронем все четыре режима игры и сторибординг.  <br> <br>Более того, мы подготовили по паре слов для каждого, кто ранкнул <b>карту<b/> в  2018  год. <br> <br>Чтобы начать нажмите на один из режимов игры слева!
+"
+        }
+    }
+}
