@@ -1,20 +1,28 @@
 {
-    "flag": "https://osu.ppy.sh/images/flags/US.png",
-    "ayim": {
-        "layout": {
-            "mca2018": "2018 MAPPER'S CHOICE AWARDS",
-            "days": "DAYS TO VOTE",
-            "nav": {
-                "standard": "standard",
-                "taiko": "taiko",
-                "fruits": "<div>catch</div> <div>the beat</div>",
-                "mania": "mania",
-                "storyboard": "storyboard"
-            }
-        },
-        "index": {
-            "homeTitle": "introduction",
-            "home": "<b>A Year in Mapping</b> has returned for 2018 to bring you the achievements and accomplishments of the mapping community this past year. <br> <br> Similar to Mapper's Choice Awards, we have expanded our coverage to include statistics and information on all four modes, but this year, we have included storyboarding as well! <br> <br> Furthermore, we have left a few words for every mapper who has ranked a <b>mapset</b> in 2018 to show our appreciation for the members in the mapping community. <br> <br> To get started, click on one of the modes on the left!"
+    "flag": "https://osu.ppy.sh/images/flags/GB.png",
+    "login": "LOG IN",
+    "mca": {
+        "main": {
+            "voting": "voting",
+            "nominating": "nominating",
+            "stage": {
+                "voting": "voting stage",
+                "nominating": "nomination stage"
+            },
+            "rankedSets": "RANKED SETS",
+            "voteNow": "vote now !",
+            "daysLeft": "days left",
+            "message": {
+                "1": "Mapper's Choice Awards is back for round 4 in 2019! This is a voting event where all mappers/modders can nominate and vote what they think is the best map/mapper for each category!",
+                "2": "Our intention is to give a new perspective on the best maps of 2019 through the eyes of the mapping community in comparison to Community Choice!",
+                "3": "This year, we have gone full-on with a website so that we can make it as easy as possible for eligible voters to nominate and vote now!",
+                "4": "We hope as many participants as possible take part in this event!"
+            },
+            "categories": {
+                "map": "map categories",
+                "user": "user categories"
+            },
+            "organized": "ORGANIZED BY"
         }
     }
 }
