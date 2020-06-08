@@ -5,6 +5,11 @@
         "main": {
             "voting": "voting",
             "nominating": "nominating",
+			"mapsetsLabel": "MAPSETS",
+			"mappersLabel": "MAPPERS",
+			"commentsLabel": "COMMENTS",
+			"recordsLabel": "RECORDS",
+			"statisticsLabel": "STATISTICS",
             "stage": {
                 "voting": "voting stage",
                 "nominating": "nomination stage"
@@ -20,7 +25,10 @@
             },
             "categories": {
                 "map": "map categories",
-                "user": "user categories"
+                "user": "user categories",
+				"approachRate": "APPROACH RATE",
+				"circleSize": "CIRCLE SIZE",
+				"overallDifficulty": "OVERALL DIFFICULTY"
             },
             "organized": "ORGANIZED BY"
         }

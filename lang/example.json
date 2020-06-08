@@ -5,6 +5,11 @@
         "main": {
             "voting": "",
             "nominating": "",
+			"mapsetsLabel": "",
+			"mappersLabel": "",
+			"commentsLabel": "",
+			"recordsLabel": "",
+			"statisticsLabel": "",
             "stage": {
                 "voting": "",
                 "nominating": ""
@@ -21,6 +26,9 @@
             "categories": {
                 "map": "",
                 "user": ""
+				"approachRate": "",
+				"circleSize": "",
+				"overallDifficulty": ""
             },
             "organized": ""
         }
