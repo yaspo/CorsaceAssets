@@ -1,0 +1,27 @@
+{
+    "flag": "https://osu.ppy.sh/images/flags/ID.png",
+    "login": "MASUK",
+    "mca": {
+        "main": {
+            "voting": "voting",
+            "nominating": "nominasi",
+            "stage": {
+                "voting": "tahapan voting",
+                "nominating": "tahapan nominasi"
+            },
+            "rankedSets": "TOTAL BEATMAP RANKED",
+            "voteNow": "vote sekarang !",
+            "daysLeft": "hari tersisa",
+            "message": {
+                "1": "Mapper's Choice Awards hadir kembali untuk keempat kalinya pada tahun 2019! Tidak jauh berbeda dari tahun-tahun sebelumnya, Mapper's Choice Awards merupakan suatu ajang penghargaan di mana para mapper/modder dapat menominasikan dan memilih map-map/mapper-mapper terbaik pada berbagai kategori yang diperlombakan.",
+                "2": "Tujuan dari diselenggarakannya Mapper's Choice Awards dari tahun ke tahun adalah untuk menentukan map-map dan mapper-mapper terbaik selama satu tahun ke belakang dilihat dari sudut pandang orang-orang yang terlibat di komunitas mapping.",
+                "3": "Tahun ini, kami telah secara khusus menyediakan situs web bagi Mapper's Choice Awards agar para mapper/modder yang memiliki hak suara dapat menyalurkan suaranya dengan lebih mudah.",
+                "4": "Kami berharap Anda semua dapat turut serta berpartisipasi dalam Mapper's Choice Award kali ini!"
+            },
+            "categories": {
+                "map": "kategori per map",
+                "user": "kategori per user"
+            },
+            "organized": "DIORGANISIR OLEH"
+        }
+    }
