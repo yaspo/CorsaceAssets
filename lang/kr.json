@@ -1,0 +1,28 @@
+{
+    "flag": "https://osu.ppy.sh/images/flags/KR.png",
+    "login": "로그인",
+    "mca": {
+        "main": {
+            "voting": "투표",
+            "nominating": "추천",
+            "stage": {
+                "voting": "투표 기간",
+                "nominating": "추천 기간"
+            },
+            "rankedSets": "랭크맵 수",
+            "voteNow": "지금 투표하세요 !",
+            "daysLeft": "일 남음",
+            "message": {
+                "1": "2019년, 네 번째 Mapper's Choice Awards가 시작됩니다! MCA는 매퍼/모더들이 자신이 생각하기에 각 카테고리에서 최고인 맵/매퍼를 추천 및 투표할 수 있는 이벤트입니다.",
+                "2": "Community Choice와 달리 매핑 커뮤니티 전체의 눈으로 2019년 최고의 맵에 새로운 관점을 부여하려는 취지에서 이 이벤트를 마련했습니다.",
+                "3": "올해는, 추천 및 투표를 용이하게 하기 위해 모든 과정이 웹사이트에서 이루어지도록 개편했습니다!",
+                "4": "최대한 많은 분이 이벤트에 참여해주셨으면 좋겠습니다!"
+            },
+            "categories": {
+                "map": "맵 카테고리",
+                "user": "매퍼 카테고리"
+            },
+            "organized": "주최자"
+        }
+    }
+}
