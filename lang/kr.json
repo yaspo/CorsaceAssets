@@ -2,6 +2,24 @@
     "flag": "https://osu.ppy.sh/images/flags/KR.png",
     "login": "로그인",
     "mca_ayim": {
+        "header": {
+            "mca": "",
+            "ayim": "",
+            "login": "",
+            "welcomeBack": "",
+            "logout": ""
+        },
+        "login": {
+            "login": "",
+            "message": {
+                "1": "",
+                "2": ""
+            },
+            "authOsu": "",
+            "authOsuComp": "",
+            "authDiscord": "",
+            "authDiscordComp": ""
+        },
         "main": {
             "voting": "투표",
             "nominating": "추천",
