@@ -1,7 +1,7 @@
 {
     "flag": "https://osu.ppy.sh/images/flags/KR.png",
     "login": "로그인",
-    "mca": {
+    "mca_ayim": {
         "main": {
             "voting": "투표",
             "nominating": "추천",

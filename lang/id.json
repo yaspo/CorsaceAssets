@@ -1,7 +1,7 @@
 {
     "flag": "https://osu.ppy.sh/images/flags/ID.png",
     "login": "MASUK",
-    "mca": {
+    "mca_ayim": {
         "main": {
             "voting": "voting",
             "nominating": "nominasi",

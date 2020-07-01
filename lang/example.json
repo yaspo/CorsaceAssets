@@ -1,7 +1,25 @@
 {
     "flag": "",
     "login": "",
-    "mca": {
+    "mca_ayim": {
+        "header": {
+            "mca": "",
+            "ayim": "",
+            "login": "",
+            "welcomeBack": "",
+            "logout": ""
+        },
+        "login": {
+            "login": "",
+            "message": {
+                "1": "",
+                "2": ""
+            },
+            "authOsu": "",
+            "authOsuComp": "",
+            "authDiscord": "",
+            "authDiscordComp": ""
+        },
         "main": {
             "voting": "",
             "nominating": "",
